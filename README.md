@@ -1,10 +1,10 @@
 Welcome to my portfolio website! This README file provides an overview of the content and features you'll find on my website, including my experience, skills, and a contact form for reaching out to me.
 
 Table of Contents:
-Introduction
-About
-Skills
-Projects/Portfolio
+Introduction, 
+About, 
+Skills, 
+Projects/Portfolio, 
 Contact Form
 
 Feel free to visit my website at: https://portfoliocorner.netlify.app/
